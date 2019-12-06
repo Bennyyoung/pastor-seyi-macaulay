@@ -1,0 +1,28 @@
+nav {
+    text-align: center;
+    /* margin-top: 0.1rem;s */
+    /* margin-bottom: 5rem */
+}
+
+nav h1 {
+    /* font-size: 6.5rem; */
+    color: white;
+    font-family: 'Rosewood Std Regular', sans-serif;
+    background: linear-gradient(to top, #ffe838, #fd57bf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5rem;
+    user-select: none;
+    /* padding: 4rem; */
+    font-weight: bold;
+
+}
+
+nav h6 {
+    /* margin-top: 14rem; */
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    padding-top: -1.5rem
+}
+

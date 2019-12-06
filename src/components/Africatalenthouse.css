@@ -1,0 +1,88 @@
+form {
+    width: 100%;
+    margin: 0 auto;
+}
+.img_for_africa_talent_house {
+    width: 100%;
+    margin: 0 auto;
+}
+
+form label {
+    font-size: 1rem;
+    margin-top: 15px;
+    font-weight: bold
+}
+.container {
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#contact h4 {
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+  }
+
+#contact {
+    background: #f9f9f9;
+    padding: 25px;
+    
+    margin: 150px 0;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="radio"],
+#contact select{
+  width: 100%;
+  border: 1px solid #ccc;
+  margin: 0 0 5px;
+  padding: 10px;
+  outline-color: #fd57bf
+
+}
+
+#contact input[type="text"]:hover,
+#contact input[type="email"]:hover,
+#contact input[type="radio"]:hover,
+#contact select:hover,
+#contact textarea:hover {
+  -webkit-transition: border-color 0.3s ease-in-out;
+  -moz-transition: border-color 0.3s ease-in-out;
+  transition: border-color 0.3s ease-in-out;
+  border: 1px solid #aaa;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-top: 15px;
+
+    margin-bottom: 15px;
+    border: none;
+    outline-color: #fd57bf
+}
+
+
+input[type="submit"]{
+    width: initial;
+    background-color: #fd57bf;
+    color: #eee;
+    padding: 1rem 2rem;
+    border-radius: .8rem;
+    cursor: pointer;
+    transition: background-color 650ms;
+}
+
+input[type="submit"]:hover {
+    color: #221e3f;
+    background-color: #ffe838;
+}

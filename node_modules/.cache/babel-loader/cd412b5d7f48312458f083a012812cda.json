@@ -1,0 +1,1 @@
+{"ast":null,"code":"// https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip#Browser_compatibility\nexport default function backgroundClip(property, value) {\n  if (typeof value === 'string' && value === 'text') {\n    return ['-webkit-text', 'text'];\n  }\n}","map":null,"metadata":{},"sourceType":"module"}

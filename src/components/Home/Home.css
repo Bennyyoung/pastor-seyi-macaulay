@@ -1,0 +1,27 @@
+.landing-logo {
+    width: 350px;
+    max-width: 100%;
+    flex: 1;
+    padding-right: 4px;
+    margin-right: 5rem;
+
+}
+
+/* .arausi {
+    width: 15rem;
+    height: 15rem;
+} */
+
+img {
+    border-radius: 5%;
+
+}
+
+.logo-class h6 {
+    padding-left: -21rem;
+    padding-right: -5rem;
+    margin-right: -10rem;
+    opacity: 0.1;
+    font-size: 1.5rem;
+    font-weight: 300
+}

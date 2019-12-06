@@ -1,0 +1,19 @@
+1.) React
+2.) react-dom
+3.) react-router-dom
+4.) normalize.css
+5.) react-scripts
+
+Navigation route
+------------
+Home
+Register
+African Talent House
+About
+Training and Testimonies
+Literacy education
+Robotics education
+Youth empowerment
+Our ceertified caniates
+Online payments
+Contact

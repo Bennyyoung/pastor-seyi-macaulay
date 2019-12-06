@@ -1,0 +1,33 @@
+.fa {
+    padding-right: 30px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px 5px 5px;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+    background: linear-gradient(to top, #ffe838, #fd57bf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 650ms cubic-bezier(1,0,0,1);
+  }
+
+
+.fa-youtube {
+    color: white;
+  }
+  
+  .fa-instagram {
+    color: white;
+  }
+
+  .fa-facebook {
+    color: white;
+  }
+  
+  .fa-twitter {
+    color: white;
+  }

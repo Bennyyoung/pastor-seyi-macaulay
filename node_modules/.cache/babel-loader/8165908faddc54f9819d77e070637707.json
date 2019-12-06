@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function isObject(value) {\n  return value instanceof Object && !Array.isArray(value);\n}","map":null,"metadata":{},"sourceType":"module"}

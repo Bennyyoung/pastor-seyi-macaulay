@@ -1,0 +1,6 @@
+a:hover {
+    background: linear-gradient(to top, #ffe838, #fd57bf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 650ms cubic-bezier(1,0,0,1);
+}
